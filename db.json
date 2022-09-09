@@ -1,0 +1,36 @@
+{
+  "signin": [
+    {
+      "id": 1,
+      "status": "1",
+      "message": "",
+      "domain": "ooogkh.ru",
+      "login": "Тест2",
+      "company": "ООО УК ЖКХ",
+      "contact": "Контакт",
+      "session": "43ad91caa57ef8985349",
+      "menu": [
+        {
+          "url": "_app/journal_1",
+          "title": "Поручения",
+          "icon": "list_alt"
+        },
+        {
+          "url": "_app/journal_2",
+          "title": "Заявки",
+          "icon": "phone_in_talk"
+        },
+        {
+          "url": "_app/journal_3",
+          "title": "Обращения",
+          "icon": "ballot"
+        },
+        {
+          "url": "_app/notices",
+          "title": "Уведомления",
+          "icon": "notifications_none"
+        }
+      ]
+    }
+  ]
+}
